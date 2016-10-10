@@ -3,8 +3,11 @@
   "author": "louishaudu",
   "description": "test-project",
   "script": {
-      "start": "node exemple.js",
-    },
-  "dependencies": {},
+    "start": "node exemple.js"
+  },
+  "dependencies": {
+    "mocha": "^3.1.1",
+    "should": "^11.1.0"
+  },
   "devDepencies": {}
 }
